@@ -7,6 +7,14 @@ Contains 200k Tuvan-Russian parallel translations of words, phrases, sentences a
 ### About the file
 Contains 296k Tuvan-Russian parallel translations of words, phrases, sentences and paragraphs. Headers: tyv (Tuvan), ru (Russian).
 
+## Dataset Structure
+
+The dataset contains Tyvan-Russian paires.
+
+Data row has the following fields (same in all files here):
+- `tyv: str`: text in Tuvan
+- `ru: str`: text in Russian (translate)
+
 ### Compilation
 These translations were compiled using different methods, mainly through the website www.tyvan.ru, where the correctness of the translations was validated by experienced translators and scientists.
 
