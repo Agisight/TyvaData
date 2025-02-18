@@ -1,9 +1,9 @@
-Данный проект будет содержать важные данные переводов для русско-тувинского и обратного переводов.
+This project will contain important translation data for Russian-Tuvan and reverse translations.
 
-**О данных:**
+**About the data:**
 
-В файле на 50К есть разбивка: тренировочные/валидационные/тестовые данные.
+The 50K file has a breakdown: training/validation/test data.
 
-Валидационные и тестовые предложения из файла отражены в конце
+The validation and test sentences from the file are reflected at the end
 
-В папке **For Yandex** есть датасет 200к+ переводов.
+There are more datasets in the **For Yandex** folder: 200k, 296k translations.
