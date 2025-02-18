@@ -12,12 +12,12 @@ These translations were compiled using different methods, mainly through the web
 
 ### List of authors and contributors
 * Kuzhuget Ali
-* Ondar Choigan
+* Ondar Choygan
 * and several dozen professionals and volunteers
 
 ### List of editors:
 * Kuzhuget Ali
-* Ondar Choigan
+* Ondar Choygan
 * ... needs to be added
 
 ### License
