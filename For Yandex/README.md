@@ -11,7 +11,7 @@ Contains 296k Tuvan-Russian parallel translations of words, phrases, sentences a
 These translations were compiled using different methods, mainly through the website www.tyvan.ru, where the correctness of the translations was validated by experienced translators and scientists.
 
 ### List of authors and contributors
-* Kujuget Ali
+* Kuzhuget Ali
 * Ondar Choigan
 * and several dozen professionals and volunteers
 
