@@ -1,21 +1,25 @@
-# Папка для сбора данных для Яндекса.
-## Файл `tyv-rus-200k.csv`
-### О файле
-Содержит 200к тувинско-русских параллельных переводов слов, фраз, предложений и абзацев.
+# Folder for collecting data for Yandex.
+## File `tyv-rus-200k.csv`
+### About the file
+Contains 200k Tuvan-Russian parallel translations of words, phrases, sentences and paragraphs.
 
-### Составление
-Эти переводы составлены через разные способы, в основном через сайт www.tyvan.ru и в ней же корректность переводов валидировалась опытными переводчиками и учёными.
+## File `tyv-rus-296k.tsv`
+### About the file
+Contains 296k Tuvan-Russian parallel translations of words, phrases, sentences and paragraphs. Headers: tyv (Tuvan), ru (Russian).
 
-### Список авторов и вносителей
-* Күжүгет Али
-* Ондар Чойган
-* ... надо дополнить
+### Compilation
+These translations were compiled using different methods, mainly through the website www.tyvan.ru, where the correctness of the translations was validated by experienced translators and scientists.
 
-### Список редакторов:
-* Күжүгет Али
-* Ондар Чойган
-* ... надо дополнить
+### List of authors and contributors
+* Kujuget Ali
+* Ondar Choigan
+* and several dozen professionals and volunteers
 
-### Лицензия
-Данная база доступна под свободной лицензией Creative Commons Attribution и доступна для свободного распространения, модификации.
-Она предназначена для практики и развития навыков для машинного обучения любым желающим.
+### List of editors:
+* Kujuget Ali
+* Ondar Choigan
+* ... needs to be added
+
+### License
+This database is available under the free Creative Commons Attribution 4.0 (CC BY 4.0) license and is available for free distribution, modification.
+It is intended for practice and development of skills for machine learning for anyone.
