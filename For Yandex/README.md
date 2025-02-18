@@ -16,7 +16,7 @@ These translations were compiled using different methods, mainly through the web
 * and several dozen professionals and volunteers
 
 ### List of editors:
-* Kujuget Ali
+* Kuzhuget Ali
 * Ondar Choigan
 * ... needs to be added
 
