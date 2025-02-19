@@ -1,11 +1,7 @@
 # Folder for collecting data for Yandex.
-## File `tyv-rus-200k.csv`
+## File `tyv-rus-306615.tsv`
 ### About the file
-Contains 200k Tuvan-Russian parallel translations of words, phrases, sentences and paragraphs.
-
-## File `tyv-rus-296k.tsv`
-### About the file
-Contains 296k Tuvan-Russian parallel translations of words, phrases, sentences and paragraphs. Headers: tyv (Tuvan), ru (Russian).
+Contains 306615 Tuvan-Russian parallel translations of words, phrases, sentences and paragraphs. Headers: tyv (Tuvan), ru (Russian).
 
 ## Dataset Structure
 
