@@ -12,9 +12,9 @@ The validation and test sentences from the file are reflected at the end
 
 ### Folder **For Yandex:**
 
-There are more datasets in the **For Yandex** folder: 200k, 296k translations.
+The datasets with 306615 translations.
 
-#### Dataset Structure of 200k, 296k translations
+#### Dataset Structure
 
 The dataset contains Tyvan-Russian paires.
 
