@@ -22,7 +22,7 @@ These translations were compiled using different methods, mainly through the web
 ### List of editors:
 * Kuzhuget Ali
 * Ondar Choygan
-* 300 other contributors.
+* several dozen professionals.
 
 ### License
 This database is available under the free Creative Commons Attribution 4.0 (CC BY 4.0) license and is available for free distribution, modification.
