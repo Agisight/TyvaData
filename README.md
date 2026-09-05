@@ -54,3 +54,6 @@ The dataset is intended to help humans and machines learn the low-resourced Tyva
 The dataset was curates as a source of machine translation training and other NLP tools.
 It consists donated and professional translations from books and websites. They have been downloaded from the www.tyvan.ru website and fined by Ali Kuzhuget.
 No additional filtering or postprocessing has been applied.
+
+© 2024–2025 Ali Kuzhuget, Ondar Choygan and contributors.
+Licensed under CC BY 4.0.
