@@ -5,7 +5,7 @@ Contains 306615 Tuvan-Russian parallel translations of words, phrases, sentences
 
 ## Dataset Structure
 
-The dataset contains Tyvan-Russian paires.
+The dataset contains Tyvan-Russian pairs.
 
 Data row has the following fields (same in all files here):
 - `tyv: str`: text in Tuvan
@@ -22,7 +22,7 @@ These translations were compiled using different methods, mainly through the web
 ### List of editors:
 * Kuzhuget Ali
 * Ondar Choygan
-* ... needs to be added
+* 300 other contributors.
 
 ### License
 This database is available under the free Creative Commons Attribution 4.0 (CC BY 4.0) license and is available for free distribution, modification.
