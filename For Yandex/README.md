@@ -27,3 +27,5 @@ These translations were compiled using different methods, mainly through the web
 ### License
 This database is available under the free Creative Commons Attribution 4.0 (CC BY 4.0) license and is available for free distribution, modification.
 It is intended for practice and development of skills for machine learning for anyone.
+
+© 2024–2025 Ali Kuzhuget, Ondar Choygan and contributors.
