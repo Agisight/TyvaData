@@ -16,7 +16,7 @@ The datasets with 306615 translations.
 
 #### Dataset Structure
 
-The dataset contains Tyvan-Russian paires.
+The dataset contains Tyvan-Russian pairs.
 
 Data row has the following fields:
 - `tyv: str`: text in Tuvan
@@ -30,7 +30,7 @@ Data row has the following fields:
 
 - **Curated by:** Ali Kuzhuget (tech and data), Ondar Choygan (data) contributors
 - **Language(s) (NLP):** Tyvan (Tuvan), Russian
-- **License:**: CC BY 4.0.
+- **License:** CC BY 4.0.
 
 Below is the brief information about the languages
 
@@ -51,8 +51,8 @@ The dataset is intended to help humans and machines learn the low-resourced Tyva
 
 ## Dataset Creation
 
-The dataset was curates as a source of machine translation training and other NLP tools.
-It consists donated and professional translations from books and websites. They have been downloaded from the www.tyvan.ru website and fined by Ali Kuzhuget.
+The dataset was curated as a source of machine translation training and other NLP tools.
+It consists of donated and professional translations from books and websites. They have been downloaded from the www.tyvan.ru website and refined by Ali Kuzhuget.
 No additional filtering or postprocessing has been applied.
 
 © 2024–2025 Ali Kuzhuget, Ondar Choygan and contributors.
