@@ -56,4 +56,5 @@ It consists of donated and professional translations from books and websites. Th
 No additional filtering or postprocessing has been applied.
 
 © 2024–2025 Ali Kuzhuget, Ondar Choygan and contributors.
+
 Licensed under CC BY 4.0.
